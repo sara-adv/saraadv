@@ -1,33 +1,10 @@
-
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
+    <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SNCT</title>
-    <style>
-        h1 {
-            text-align: center;
-        }
-
-        h2 {
-            text-align: center;
-        }
-
-        h3 {
-            text-align: center;
-        }
-
-        h4 {
-            color: rgb(0, 17, 167);
-        }
-
-        h4 {
-            color: rgb(0, 17, 167);
-            font-size: 24px;
-        }
-    </style>
 </head>
 <body>
     <h1 align="center">O que é semana de ciências e tecnologia?</h1>
@@ -49,3 +26,4 @@
     <img src="https://www.ifsc.edu.br/documents/624003/2026349/cabeca+snct+2024.jpg" width="500">
 </body>
 </html>
+
