@@ -1,0 +1,51 @@
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SNCT</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        h3 {
+            text-align: center;
+        }
+
+        h4 {
+            color: rgb(0, 17, 167);
+        }
+
+        h4 {
+            color: rgb(0, 17, 167);
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center">O que é semana de ciências e tecnologia?</h1>
+
+    <p style="font-size: 24px;">
+        A "Semana de Ciências e Tecnologia" (ou "Semana Nacional de Ciências e Tecnologia", como é chamada no Brasil) é um evento anual dedicado a promover a divulgação científica e tecnológica para o público em geral. O objetivo principal é despertar o 
+        <a href="https://semanact.mcti.gov.br/pagina/semanact/informacoes">interesse por ciência e tecnologia</a>.
+    </p>
+    <img style="text-align: center;" src="https://observatorio.iesb.br/wp-content/uploads/2023/08/banner/site_folheto-1-980x487.png" alt="Semana de Ciências e Tecnologia">
+    
+    <p style="font-size: 24px;">Ela ocorre entre os dias 17 e 22 de fevereiro, e o Ministério da Ciência, Tecnologia e Inovação (MCTI) é uma das entidades organizadoras.</p>
+
+    <p style="font-size: 24px;">O evento é realizado desde 2004 e tem como objetivo principal divulgar o conhecimento científico e as ações de popularização da ciência e tecnologia no Brasil. </p>
+
+    <h2 style="font-size: 24px;">Mais notícias</h2>
+    
+    <p style="font-size: 24px;">Algumas edições passadas do evento já reuniram mais de 20 milhões de estudantes de escolas públicas e privadas em atividades de divulgação científica.</p>
+
+    <img src="https://www.ifsc.edu.br/documents/624003/2026349/cabeca+snct+2024.jpg" width="500">
+</body>
+</html>
